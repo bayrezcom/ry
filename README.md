@@ -1,7 +1,3 @@
-<!-- ============================= -->
-<!--          BAYREZ              -->
-<!-- ============================= -->
-
 <p align="center">
   <img src="https://bayrez.com/assets/images/bayrez-icon.svg" width="140" alt="BAYREZ Logo"/>
 </p>
