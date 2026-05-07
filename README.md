@@ -1,121 +1,103 @@
 <p align="center">
-  <img src="https://bayrez.com/assets/images/bayrez-icon.svg" width="140" alt="BAYREZ Logo"/>
+  <img src="https://bayrez.com/wp-content/uploads/2026/04/BAYREZ-ICON.png" width="120" alt="BAYREZ"/>
 </p>
 
 <h1 align="center">BAYREZ</h1>
 
 <p align="center">
-  <b>Digital Infrastructure. Performance Intelligence. Scalable Growth.</b>
+  <strong>Digital Infrastructure · Performance Intelligence · Scalable Growth</strong>
 </p>
 
 <p align="center">
-  <a href="https://bayrez.com">
-    <img src="https://img.shields.io/badge/Website-Visit-black?style=for-the-badge">
-  </a>
-  <a href="https://bayrez.com/contact">
-    <img src="https://img.shields.io/badge/Contact-Direct-black?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Scope-Global-gold?style=for-the-badge">
+  <a href="https://bayrez.com">bayrez.com</a> &nbsp;·&nbsp;
+  <a href="https://bayrez.com/contact">Contact Us</a> &nbsp;·&nbsp;
 </p>
 
 ---
 
-## About BAYREZ
+## About
 
 **BAYREZ** is a digital solutions and consultancy hub focused on building intelligent, scalable, and performance-driven ecosystems.
 
-We architect, deploy, and optimize integrated digital environments engineered for measurable growth and long-term operational efficiency.
-
-Our approach blends **strategy, marketing intelligence, automation, and infrastructure precision** — ensuring brands are not only visible, but structurally scalable and commercially optimized.
+We architect, deploy, and optimize integrated digital environments engineered for measurable growth and long-term operational efficiency — blending **strategy, marketing intelligence, automation, and infrastructure precision** to ensure brands aren't just visible, but structurally scalable and commercially optimized.
 
 ---
 
-## Core Divisions
+## Services
 
-### 1. Digital Marketing & Growth Strategy
+<details>
+<summary><b>📈 Digital Marketing</b></summary>
+<br>
 
-- Market & competitor research  
-- Audience profiling & customer journey mapping  
-- Brand positioning & messaging strategy  
-- SEO (on-page, off-page, technical)  
-- Keyword research & search intent analysis  
-- Google Ads & paid search campaigns  
-- Social media advertising (Meta, TikTok, LinkedIn)  
-- Retargeting & remarketing funnels  
-- Conversion rate optimization (CRO)  
-- Landing page strategy & A/B testing  
-- Email marketing campaigns & automation  
-- Lead generation systems  
-- Marketing analytics & performance reporting  
-- KPI tracking & ROI optimization  
-- Content strategy & editorial planning  
-- Social media management & scheduling  
-- Influencer collaboration frameworks  
+Website design & development, SEO (on-page, off-page, technical), Google Ads & paid search, social media advertising (Meta, TikTok, LinkedIn), content strategy, and professional videography & production.
 
----
+</details>
 
-### 2. E-Commerce Systems
+<details>
+<summary><b>🛒 E-Commerce & Online Retail</b></summary>
+<br>
 
-- Shopify & WooCommerce ecosystems  
-- Custom commerce architecture  
-- Product structure & merchandising strategy  
-- Payment gateway integrations  
-- Inventory & ERP synchronization  
-- Abandoned cart recovery systems  
-- Marketplace deployment strategies  
-- Customer lifecycle automation  
+End-to-end commerce solutions across WooCommerce, Shopify, and PrestaShop — plus marketplace deployment and management on Amazon, Noon, and more. From storefront architecture to payment integrations and customer lifecycle automation.
 
----
+</details>
 
-### 3. Web & Platform Engineering
+<details>
+<summary><b>🔄 Business Digital Transformation</b></summary>
+<br>
 
-- Corporate & enterprise platforms  
-- High-converting landing systems  
-- UX/UI optimization  
-- Headless-ready structures  
-- Performance & speed optimization  
-- Technical SEO foundations  
-- Structured data & schema implementation  
+Enterprise-grade system implementation and integration including CRM, ERP, HR & Finance platforms, Hospital Information Management Systems (HIMS), and SaaS solutions tailored to operational needs.
 
----
+</details>
 
-### 4. Omnichannel Communication
+<details>
+<summary><b>🎤 Events & PR Management</b></summary>
+<br>
 
-- WhatsApp Cloud API implementation  
-- Unified inbox ecosystems  
-- CRM-integrated automation workflows  
-- Lead routing & tagging systems  
-- Customer support automation  
-- Multi-channel messaging architecture  
+End-to-end corporate event planning, public relations strategy, and marketing event execution — connecting brands with the right audiences through impactful, professionally managed experiences.
 
----
+</details>
 
-### 5. Cloud & Infrastructure
+<details>
+<summary><b>✈️ Tourism & Recreation</b></summary>
+<br>
 
-- Secure VPS environments  
-- Containerized deployments (Docker-ready)  
-- Reverse proxy & SSL orchestration  
-- Domain & DNS structuring  
-- Secure mail & system architecture  
-- System monitoring & maintenance frameworks  
+Curated travel packages and expert advisory services — crafting destination experiences for individuals, corporate groups, and tourism-sector partners.
 
----
-
-## Operational Philosophy
-
-We align marketing strategy with technical infrastructure.  
-We connect traffic generation with system automation.  
-We design digital ecosystems where visibility converts into measurable growth.
+</details>
 
 ---
 
 ## Technology Stack
 
-```bash
-Frontend     → WordPress / Shopify / Custom Frameworks
-Backend      → Linux / Docker / Nginx / Reverse Proxy
-CRM / ERP    → Zoho / Odoo / EspoCRM / Custom Integrations
-Automation   → API-first workflows / Webhooks / System orchestration
-Marketing    → Google Ads / Meta Ads / Analytics / SEO Systems
-Messaging    → WhatsApp Cloud API / Unified Inbox
-Deployment   → Secure cloud environments
+```text
+Frontend     →  WordPress · Shopify · PrestaShop · Custom Frameworks
+E-Commerce   →  WooCommerce · Shopify · Amazon · Noon
+CRM / ERP    →  Zoho · Odoo · EspoCRM · HIMS · Custom Integrations
+Automation   →  API-first workflows · Webhooks · System orchestration
+Marketing    →  Google Ads · Meta Ads · SEO Systems · Analytics
+Messaging    →  WhatsApp Cloud API · Unified Inbox
+Deployment   →  Secure VPS · Docker · Nginx · Cloud Environments
+```
+
+---
+
+## Operational Philosophy
+
+> We align **marketing strategy** with **technical infrastructure.**  
+> We connect **traffic generation** with **system automation.**  
+> We design digital ecosystems where **visibility converts into measurable growth.**
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| 🌍 Website | [bayrez.com](https://bayrez.com) |
+| 📩 Contact | [bayrez.com/contact](https://bayrez.com/contact) |
+
+---
+
+<p align="center">
+  <sub>© BAYREZ — Digital Infrastructure. Performance Intelligence. Scalable Growth.</sub>
+</p>
