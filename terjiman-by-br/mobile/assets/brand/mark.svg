@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Terjiman by BR mark">
+  <!--
+    Terjiman by BR — brand mark.
+    Two overlapping speech bubbles: one carries a right-to-left line of text,
+    the other a left-to-right line. Two scripts, one conversation. Pure
+    geometry, no font dependency and no third-party artwork.
+  -->
+  <!-- Back bubble: the RTL voice. -->
+  <g>
+    <rect x="72" y="104" width="256" height="176" rx="52" fill="#AA72B4"/>
+    <path d="M112 268 L112 340 L172 282 Z" fill="#AA72B4"/>
+    <rect x="120" y="158" width="160" height="20" rx="10" fill="#4A2461" opacity="0.55"/>
+    <rect x="180" y="200" width="100" height="20" rx="10" fill="#4A2461" opacity="0.55"/>
+  </g>
+  <!-- Front bubble: the LTR voice. -->
+  <g>
+    <rect x="184" y="232" width="256" height="176" rx="52" fill="#FFFFFF"/>
+    <path d="M400 396 L400 468 L340 410 Z" fill="#FFFFFF"/>
+    <rect x="232" y="286" width="160" height="20" rx="10" fill="#4A2461"/>
+    <rect x="232" y="328" width="100" height="20" rx="10" fill="#4A2461"/>
+  </g>
+</svg>

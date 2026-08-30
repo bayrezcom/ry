@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Terjiman by BR monochrome mark">
+  <!--
+    Themed-icon (monochrome) variant: Android tints the whole layer one colour,
+    so the text lines are punched out as transparent holes instead of being
+    filled, keeping the two bubbles readable after tinting.
+  -->
+  <defs>
+    <mask id="lines">
+      <rect width="512" height="512" fill="#000"/>
+      <rect x="72" y="104" width="256" height="176" rx="52" fill="#fff"/>
+      <path d="M112 268 L112 340 L172 282 Z" fill="#fff"/>
+      <rect x="184" y="232" width="256" height="176" rx="52" fill="#fff"/>
+      <path d="M400 396 L400 468 L340 410 Z" fill="#fff"/>
+      <rect x="120" y="158" width="160" height="20" rx="10" fill="#000"/>
+      <rect x="180" y="200" width="100" height="20" rx="10" fill="#000"/>
+      <rect x="232" y="286" width="160" height="20" rx="10" fill="#000"/>
+      <rect x="232" y="328" width="100" height="20" rx="10" fill="#000"/>
+    </mask>
+  </defs>
+  <rect width="512" height="512" fill="#FFFFFF" mask="url(#lines)"/>
+</svg>
